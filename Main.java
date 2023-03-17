@@ -24,5 +24,6 @@ public class Main {
 
     public static int findIndex(int value, int[] array) {
 
+        return value;
     }
 }
